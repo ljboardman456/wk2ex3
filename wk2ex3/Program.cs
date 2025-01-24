@@ -23,5 +23,7 @@ class Program
 
         // Display the result
         Console.WriteLine($"The number of vowels in the string is: {vowelCount}");
+        // Pause for user input
+        Console.ReadLine();
     }
 }
